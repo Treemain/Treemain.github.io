@@ -1,0 +1,11 @@
+body{
+	font-family: Montserrat;
+}
+
+.home{
+	background-image: url(background.jpg);
+}
+
+p{
+	margin-top: 10px;
+}
